@@ -2,7 +2,7 @@ cask "agentwatch-sync" do
   version "0.1.9"
   sha256 "8a923fc96b56be380222605d5cdd2344dd4a5c7c38ab784b29203e6c076d886b"
 
-  url "https://github.com/tommboorg/agentwatch/releases/download/sync-v#{version}/agentwatch-sync.pkg"
+  url "https://github.com/tommboorg/agentwatch/releases/download/sync-test/agentwatch-sync.pkg"
   name "AgentWatch Sync"
   desc "Sync Claude Desktop and Cursor sessions to AgentWatch"
   homepage "https://agentwatch.tommbo.com"
