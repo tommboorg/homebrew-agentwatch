@@ -9,7 +9,7 @@ cask "agentwatch-sync-qa" do
 
   pkg "agentwatch-sync-qa.pkg"
 
-  uninstall pkgutil: "com.tommbo.agentwatch-sync"
+  uninstall pkgutil: "com.agentwatch.sync"
 
   zap trash: [
     "~/.agentwatch",
