@@ -1,6 +1,6 @@
 cask "agentwatch-sync-qa" do
   version "0.0.0-qa"
-  sha256 "062f46152bdd92944621d83b74a8afb837f16d521039c8b1a201eb886a7991ab"
+  sha256 "a9a395e4c2c3efef2ad7652da72ac65bd692bcfd70b61d3817b89bb01d735e74"
 
   url "https://github.com/tommboorg/homebrew-agentwatch/releases/download/sync-v#{version}/agentwatch-sync-qa.pkg"
   name "AgentWatch Sync (QA)"
